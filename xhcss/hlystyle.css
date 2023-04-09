@@ -204,21 +204,28 @@ header {
 }
 	
 .lswd {
-	margin-top:2em;
-	margin-left:1em;
-	border-top: 5px solid #343434;
-	width:45%;
-	height:20em;
-	border-radius:5px;
-	/*background:hsla(226,46%,73%,0.8);*/
-	background:aquamarine;
+	
+	width:47%;
+	/*height:20em;
+	
+	background:hsla(226,46%,73%,0.8);*/
+	
 	/*//background-repeat;*/
-	height:auto;
-	margin-bottom:1em ;
+	padding-top:10em;
+	margin-top:2em;
+	
 }
 
  .lswdt {
 	text-align:left;
+	height:auto;
+	margin-top:2em;
+	margin-left:1em;
+	border-top: 5px solid #343434;
+	border-radius:5px;
+	background:aquamarine;
+	margin-bottom:1em ;
+	
 }
 
 body h1 {
