@@ -228,6 +228,19 @@ header {
 	
 }
 
+.newway {
+	float leftwards;
+	text-align:left;
+	height:auto;
+	margin-top:2em;
+	margin-left:1em;
+	border-top: 5px solid #343434;
+	border-radius:5px;
+	background:aquamarine;
+	margin-bottom:1em ;
+	
+}
+
 body h1 {
 	text-align:center;
 	font-size:2.5em;
